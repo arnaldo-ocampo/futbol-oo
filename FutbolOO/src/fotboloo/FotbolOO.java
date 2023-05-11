@@ -6,7 +6,7 @@
 package fotboloo;
 
 /**
- *
+ * Representa un Jugador de Futbol
  * @author Arnaldo
  */
 public class FotbolOO {
